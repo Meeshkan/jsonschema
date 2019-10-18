@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
-    "url-join": "^4.0.1",
     "url-parse": "^1.4.7"
   },
   "contributors": [
