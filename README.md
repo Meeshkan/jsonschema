@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/tdegrunt/jsonschema.svg)](http://travis-ci.org/tdegrunt/jsonschema)
+*[https://github.com/tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) fork that does not rely on Node.js 'url'*
 
 # jsonschema
 [JSON schema](http://json-schema.org/) validator, which is designed to be fast and simple to use.
