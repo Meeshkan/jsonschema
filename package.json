@@ -4,8 +4,8 @@
   "version": "1.2.4",
   "license": "MIT",
   "dependencies": {
-    "url-parse": "^1.4.7",
-    "whatwg-url": "^7.0.0"
+    "url-join": "^4.0.1",
+    "url-parse": "^1.4.7"
   },
   "contributors": [
     {
