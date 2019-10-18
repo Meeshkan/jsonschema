@@ -1,7 +1,7 @@
 {
   "author": "Tom de Grunt <tom@degrunt.nl> & Meeshkan",
   "name": "@meeshkanml/jsonschema",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
     "url-parse": "^1.4.7"
