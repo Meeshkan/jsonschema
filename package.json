@@ -1,7 +1,7 @@
 {
-  "author": "Tom de Grunt <tom@degrunt.nl>",
-  "name": "jsonschema",
-  "version": "1.2.4",
+  "author": "Tom de Grunt <tom@degrunt.nl> & Meeshkan",
+  "name": "@meeshkanml/jsonschema",
+  "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
     "url-join": "^4.0.1",
@@ -10,6 +10,9 @@
   "contributors": [
     {
       "name": "Austin Wright"
+    },
+    {
+      "name": "Meeshkan"
     }
   ],
   "main": "./lib",
@@ -32,9 +35,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tdegrunt/jsonschema.git"
+    "url": "git://github.com/unmock/jsonschema.git"
   },
-  "description": "A fast and easy to use JSON Schema validator",
+  "description": "Fork of jsonschema not relying on Node.js url",
   "scripts": {
     "test": "./node_modules/.bin/mocha -R spec"
   }
